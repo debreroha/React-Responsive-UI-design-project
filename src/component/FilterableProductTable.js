@@ -1,3 +1,4 @@
+//import useful librarys and components
 import { useState } from "react";
 import SearchBar from "./SearchBar";
 import ProductTable from "./ProductTable";
