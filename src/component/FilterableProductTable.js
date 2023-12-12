@@ -4,7 +4,7 @@ import SearchBar from "./SearchBar";
 import ProductTable from "./ProductTable";
 
 
-// filterableproductTable component
+
 const FilterableProductTable = ({ products }) => {
   const [filterText, setFilterText] = useState("");
   const [inStockOnly, setInStockOnly] = useState(false);
